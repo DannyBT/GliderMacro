@@ -1,0 +1,7 @@
+## Interface: 80300
+## Author: Dànny
+## Version: 1.0
+## Title: |cfffef367GliderMacro|r
+## Notes: Glide with style
+
+core.lua
